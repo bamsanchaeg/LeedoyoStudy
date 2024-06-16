@@ -1,3 +1,5 @@
+package solution0616;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

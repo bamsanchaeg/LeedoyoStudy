@@ -1,3 +1,5 @@
+package solution0616;
+
 import java.io.*;
 
 // 배열문제가 많이 헷갈려서 이 부분에 대해서 숙지가 잘 되어야 할듯
