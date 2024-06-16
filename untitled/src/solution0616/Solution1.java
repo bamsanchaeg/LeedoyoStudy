@@ -23,7 +23,8 @@ public class Solution1 {
             answer = (i/7) + 1;
         }
 
-        //프로그래머스에서 return값을 주지만 여기서는 String으로 값을 받기 때문에 이 식을 씁니당.
+        //프로그래머스에서 return값을 주지만 여기서는 String으로 값을 받기 때문에 이 식을 씁니다
+        //참고참고!.
         System.out.println("우리에게 필요한 피자는" + answer);
     }
 
