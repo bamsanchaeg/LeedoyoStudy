@@ -1,3 +1,4 @@
+package Solution0630;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -20,21 +21,24 @@ import java.util.*;
                 }
                         }
  **/
+public class Solution1 {
 
-public static void main(String[] args) throws IOException {
-    System.out.println("알파벳을 입력하세요!");
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    String s = br.readLine();
-    StringBuilder answer = new StringBuilder();
+    public static void main(String[] args) throws IOException {
+        System.out.println("알파벳을 입력하세요!");
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String s = br.readLine();
+        StringBuilder answer = new StringBuilder();
 
-    for(int i=0;i<s.length();i++){
-        char c = s.charAt(i);
-        if(Character.isUpperCase(c)){
-            answer.append(Character.toLowerCase(c));
-        }else {
-            answer.append(Character.toUpperCase(c));
+        for(int i=0;i<s.length();i++){
+            char c = s.charAt(i);
+            if(Character.isUpperCase(c)){
+                answer.append(Character.toLowerCase(c));
+            }else {
+                answer.append(Character.toUpperCase(c));
+            }
         }
+
+        System.out.println(answer);
     }
 
-    System.out.println(answer);
 }
