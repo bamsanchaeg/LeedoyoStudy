@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="725ff41d-e443-4040-949a-59d2474933eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/CodingTestPrepare.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0714/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution4.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0701/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0701/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0701/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0701/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0714/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jESoETVcfQ6iPt65gEPqwFgmHD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Hyun/GitWorkSpace/CodingTestPrepare",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Solution1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Solution0714.Solution1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CodingTestPrepare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CodingTestPrepare" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="725ff41d-e443-4040-949a-59d2474933eb" name="Changes" comment="" />
+      <created>1720950915965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720950915965</updated>
+      <workItem from="1720950917194" duration="395000" />
+      <workItem from="1720951319720" duration="797000" />
+      <workItem from="1720952127744" duration="216000" />
+      <workItem from="1720952605433" duration="499000" />
+      <workItem from="1720954613614" duration="1861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
