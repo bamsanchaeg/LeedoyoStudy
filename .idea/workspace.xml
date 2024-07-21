@@ -5,95 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725ff41d-e443-4040-949a-59d2474933eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/CodingTestPrepare.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0714/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution4.class.uniqueId0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0630/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0701/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0701/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0707/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0616/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution0623/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0630/Solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0701/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0701/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0707/Solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution0714/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0616/Solution4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/solution0623/Solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0721/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0721/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0721/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0721/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution0721/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0630/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0701/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0707/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/Solution0714/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0616/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cabinet/solution0623/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution1.class.uniqueId7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution2.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution3.class.uniqueId9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution4.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Solution4.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution0714/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution0714/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution0714/Solution2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +69,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingTestPrepare" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -145,6 +109,13 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Solution1.executor": "Run",
+    "Gradle.Build CodingTestPrepare.executor": "Run",
+    "Gradle.CodingTestPrepare [:Solution1.main()].executor": "Run",
+    "Gradle.CodingTestPrepare [:Solution2.main()].executor": "Run",
+    "Gradle.CodingTestPrepare [:Solution3.main()].executor": "Run",
+    "Gradle.CodingTestPrepare [:Solution4.main()].executor": "Run",
+    "Gradle.CodingTestPrepare [:Solution5.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -155,35 +126,97 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution5">
+    <configuration name="Solution0721.Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution0721.Solution1" />
+      <module name="CodingTestPrepare.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution0721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Solution0714.Solution1" />
+      <module name="CodingTestPrepare.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="CodingTestPrepare" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution0721.Solution2" />
+      <module name="CodingTestPrepare.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution0721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="CodingTestPrepare" />
-      <option name="filePath" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution0721.Solution3" />
+      <module name="CodingTestPrepare.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution0721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution0721.Solution4" />
+      <module name="CodingTestPrepare.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution0721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution0721.Solution5" />
+      <module name="CodingTestPrepare.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution0721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution0721.Solution1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -208,7 +241,10 @@
       <workItem from="1720951319720" duration="797000" />
       <workItem from="1720952127744" duration="216000" />
       <workItem from="1720952605433" duration="499000" />
-      <workItem from="1720954613614" duration="1861000" />
+      <workItem from="1720954613614" duration="2024000" />
+      <workItem from="1720956647261" duration="3615000" />
+      <workItem from="1721002057374" duration="37000" />
+      <workItem from="1721560061986" duration="7335000" />
     </task>
     <servers />
   </component>
