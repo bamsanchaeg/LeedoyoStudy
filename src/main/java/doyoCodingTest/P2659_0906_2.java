@@ -1,4 +1,4 @@
-package doyoCodingtest;
+package doyoCodingTest;
 
 import java.io.*;
 import java.util.*;
@@ -56,11 +56,6 @@ public class P2659_0906_2 {
 
         return visit;
     }
-
-
-
-
-
 
     //시계방향으로 여러 시작점에서 4자리수를 생성하고, 가장 작은 수를 출력해야함.
     public static int generateClockwiseNumber(int top, int right, int bottom, int left){

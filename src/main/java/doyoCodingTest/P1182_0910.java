@@ -1,5 +1,6 @@
-package doyoCodingtest;
+package doyoCodingTest;
 
+//gitignore
 
 import java.io.*;
 import java.util.StringTokenizer;

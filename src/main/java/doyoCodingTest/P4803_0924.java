@@ -1,4 +1,4 @@
-package doyoCodingtest;
+package doyoCodingTest;
 
 import java.util.*;
 import java.io.*;
